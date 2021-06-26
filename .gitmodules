@@ -1,0 +1,9 @@
+[submodule "talk-common"]
+	path = talk-common
+	url = git@github.com:Pawel82S/talk-common.git
+[submodule "talk-server"]
+	path = talk-server
+	url = git@github.com:Pawel82S/talk-server.git
+[submodule "talk-client"]
+	path = talk-client
+	url = git@github.com:Pawel82S/talk-client.git
